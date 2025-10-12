@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Abdel Nasser Orou Sanou
-email:orousanouabdelnasser@gmail.com
+title: Abdel Nasser portfolio
+email: orousanouabdelnasser@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Undergraduate student in physics at Institut de Mathématique et de Sciences Physique ...
 github_username: username
@@ -61,7 +61,7 @@ author:
   links:
    # - label: "Website"
    #  icon: "fas fa-fw fa-link"
-      url: "https://"
+   #  url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abdelos1?tab=repositories"
