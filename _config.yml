@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Abdel Nasser portfolio
-email: orousanouabdelnasser@gmail.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
- Undergraduate student in physics at Institut de Mathématique et de Sciences Physique ...
+ Undergraduate student in physics at Institut de Mathématiques et de Sciences Physique ...
 github_username: username
 minimal_mistakes_skin: air
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Abdel Nasser Orou S"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Undergraduate student in physics at Institut de Mathématique et de Sciences Physique "
+  bio    : "Undergraduate student in physics at Institut de Mathématiques et de Sciences Physique "
   links:
    # - label: "Website"
    #  icon: "fas fa-fw fa-link"
@@ -67,7 +67,7 @@ author:
       url: "https://github.com/abdelos1?tab=repositories"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/abdel-nasser-orou-sanou-b30054375/"
+      url: "www.linkedin.com/in/abdel-nasser-o-b30054375"
 
 footer:
   links:
