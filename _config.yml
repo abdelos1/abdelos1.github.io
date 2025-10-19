@@ -67,19 +67,16 @@ author:
       url: "https://github.com/abdelos1?tab=repositories"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
-      url: "www.linkedin.com/in/abdel-nasser-o-b30054375"
+      url: "https://linkedin.com/in/abdel-nasser-o-b30054375/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://linkedin.com/in/abdel-nasser-o-b30054375/"
 
 defaults:
   # _posts
