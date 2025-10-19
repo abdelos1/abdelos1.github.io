@@ -58,7 +58,7 @@ author:
   name   : "Abdel Nasser Orou S"
   avatar : "/assets/images/profile.jpg"
   bio    : "Undergraduate student in physics at Institut de Mathématiques et de Sciences Physique "
-    interests:
+  interests:
     - "Artificial Intelligence"
     - "Computational Linguistics"
     - "Information Retrieval"
