@@ -1,6 +1,5 @@
 main:
-  - title: "Bio"
-    url: /bio/
   - title: "Projects"
     url: /projects/
- 
+  - title: "Class Presentations"
+    url: /Cpresentations/
