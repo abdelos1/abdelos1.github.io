@@ -6,9 +6,10 @@ title: "Projects"
 - Orou Sanou Abdel N., [Build Calorie Intake Calculator]( https://www.datacamp.com/datalab/w/0244db5e-f2b9-4bc7-a9eb-a924fb23c52a/edit)
 - ![](assets/images/hist.png)
   [Investigating Netflix Movies](https://www.datacamp.com/datalab/w/54d87fc0-32d2-4dab-9a36-ac2527552262/edit)
+-[Creating Functions to Register App Users](https://www.datacamp.com/datalab/w/3f365189-766b-4f4d-9807-f63e5e7c5955/edit)
 
 ---
 permalink: /Cpresentations/
-title: "Class presentations"
+title: "Class Presentations"
 <iframe src="https://drive.google.com/file/d/19kTufgw-cd40giNZJNoXZhFLeHQcR37L/preview" width="640" height="480" allow="autoplay"></iframe>
 ---
