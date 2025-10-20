@@ -7,3 +7,8 @@ title: "Projects"
 - ![](assets/images/hist.png)
   [Investigating Netflix Movies](https://www.datacamp.com/datalab/w/54d87fc0-32d2-4dab-9a36-ac2527552262/edit)
 
+---
+permalink: /Cpresentations/
+title: "Class presentations"
+<iframe src="https://drive.google.com/file/d/19kTufgw-cd40giNZJNoXZhFLeHQcR37L/preview" width="640" height="480" allow="autoplay"></iframe>
+---
