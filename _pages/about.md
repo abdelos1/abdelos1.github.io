@@ -5,11 +5,12 @@ layout: single
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/neuroruler.png # Remplacez par le chemin de votre image
-    alt: "neuroruler project"
-    title: "neuroruler"
-    excerpt: "Programme qui calcule la circonférence de la tête à partir de données IRM. Rotation 3D, lissage et options de seuillage. Traite les données par lots via CLI. Importe et exporte les données de circonférence et de paramètres."
-    url: "#" # Lien vers votre projet
+  - image_path: /assets/images/hist.jpg # Remplacez par le chemin de votre image
+    alt: "Investigating Netflix Movies"
+    title: "Investigating Netflix Movies"
+    excerpt: "Performed exploratory data analysis on a CSV dataset to explore trends in movies from
+the 1990s."
+    url: "https://www.datacamp.com/datalab/w/54d87fc0-32d2-4dab-9a36-ac2527552262/edit" # Lien vers votre projet
     btn_label: "Voir le projet"
     btn_class: "btn--inverse"
 
