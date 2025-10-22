@@ -5,5 +5,4 @@
 layout: single
 author_profile: true
 ---
-I'm a **undergraduate student** at University of Abomey Calavi in Benin. I'm studiying physics at the Institut de Mathématiques et de Sciences Physiques. I'm interessed by aerospace enginering that as fascinated me since starting my secondary school.
-I developed a certain curiosity for understanding things around me and that curiosity led me to my passion for electronics that are used everywhere
+Final year **undergraduate physics student** at Institut de Mathématiques et de Sciences Physique, Benin. Passionate about **electronics and its applications in aerospace engineering and research on quantum technologies**. Eager to pursue my studies in an Engineering Program that combines advanced physics concepts with hands-on research and innovation."
