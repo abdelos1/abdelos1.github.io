@@ -39,6 +39,16 @@ the 1990s."
     btn_class: "btn--inverse"
 ---
 
-## DataCamp Projects
+## DataCamp PROJECTS
 
 {% include feature_row %}
+
+# 2. NOUVELLE SECTION : SCHOOL PROJECTS
+feature_row_ong:
+  - image_path: /assets/images/.JPG # Remplacez par l'image de votre projet
+    alt: "Scientific English research"
+    title: "Scientific English research'"
+    excerpt: "Développement complet du site vitrine de l'association en utilisant Jekyll, permettant d'augmenter leur visibilité et les dons en ligne."
+    url: "https://drive.google.com/file/d/19kTufgw-cd40giNZJNoXZhFLeHQcR37L/view?usp=drive_link" # Lien vers le site ou le code
+    btn_label: "Voir le site"
+  
