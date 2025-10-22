@@ -43,10 +43,18 @@ feature_row_school:
   - image_path: /assets/images/circuit.jpg
     alt: "Scientific English research"
     title: "Scientific English Research"
-    excerpt: "Développement complet du site vitrine de l'association en utilisant Jekyll, permettant d'augmenter leur visibilité et les dons en ligne."
+    excerpt: "General presentation of Electronics field: electronic components, electronic devices in real world, their negatives effects, and Approaches to solving the problem"
     url: "https://drive.google.com/file/d/19kTufgw-cd40giNZJNoXZhFLeHQcR37L/view?usp=drive_link"
     btn_label: "View Project"
     btn_class: "btn--inverse"
+
+ - image_path: /assets/images/airpod.jpg
+    alt: "Engineering Sciences Project"
+    title: "Engineering Sciences Project"
+    excerpt: "Group project using System Modeling Language (SysML) to model an Apple device (AirPods 3)"
+    url: "https://docs.google.com/presentation/d/17ey6RqAW35KaYM3eXGOdeOIxk1VLTqTn/edit?usp=sharing&ouid=101718479781209765117&rtpof=true&sd=true"
+    btn_label: "View Project"
+    btn_class: "btn--inverse" 
 ---
 
 #  DataCamp Projects
