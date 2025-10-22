@@ -37,13 +37,8 @@ feature_row:
     url: "https://www.datacamp.com/datalab/w/0244db5e-f2b9-4bc7-a9eb-a924fb23c52a/edit"
     btn_label: "View Project"
     btn_class: "btn--inverse"
----
 
-{% include feature_row %}
-
-## School Projects
-
-{% include feature_row id="school" %}
+# === School Projects ===
 feature_row_school:
   - image_path: /assets/images/circuit.jpg
     alt: "Scientific English research"
@@ -52,4 +47,12 @@ feature_row_school:
     url: "https://drive.google.com/file/d/19kTufgw-cd40giNZJNoXZhFLeHQcR37L/view?usp=drive_link"
     btn_label: "View Project"
     btn_class: "btn--inverse"
+---
+
+# 🧠 DataCamp Projects
+{% include feature_row %}
+
+---
+
+# 🎓 School Projects
 {% include feature_row id="school" %}
