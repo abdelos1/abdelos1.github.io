@@ -49,10 +49,13 @@ feature_row_school:
     btn_class: "btn--inverse"
 ---
 
-# 🧠 DataCamp Projects
+#  DataCamp Projects
 {% include feature_row %}
 
 ---
 
-# 🎓 School Projects
-{% include feature_row id="school" %}
+#  School Projects
+{% include feature_row id="feature_row_school" %}
+
+
+
