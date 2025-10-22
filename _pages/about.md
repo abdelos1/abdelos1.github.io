@@ -1,9 +1,3 @@
----
-permalink: /projects/
-title: "Projects"
-layout: single
-author_profile: true
-
 datacamp_projects:
   - image_path: /assets/images/hist.jpg
     alt: "Investigating Netflix Movies"
