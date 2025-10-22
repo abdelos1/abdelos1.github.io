@@ -48,7 +48,7 @@ feature_row_school:
     btn_label: "View Project"
     btn_class: "btn--inverse"
 
- - image_path: /assets/images/airpod.jpg
+  - image_path: /assets/images/airpod.jpg
     alt: "Engineering Sciences Project"
     title: "Engineering Sciences Project"
     excerpt: "Group project using System Modeling Language (SysML) to model an Apple device (AirPods 3)"
