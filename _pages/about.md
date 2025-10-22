@@ -42,7 +42,6 @@ the 1990s."
 ## DataCamp PROJECTS
 
 {% include feature_row %}
----
 feature_row:
   - image_path: /assets/images/circuit.jpg# Remplacez par l'image de votre projet
     alt: "Scientific English research"
@@ -50,7 +49,6 @@ feature_row:
     excerpt: "Développement complet du site vitrine de l'association en utilisant Jekyll, permettant d'augmenter leur visibilité et les dons en ligne."
     url: "https://drive.google.com/file/d/19kTufgw-cd40giNZJNoXZhFLeHQcR37L/view?usp=drive_link" # Lien vers le site ou le code
     btn_label: "View Project"
----
 ## Scchool projects
 
   
