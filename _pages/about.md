@@ -22,7 +22,7 @@ the 1990s."
     btn_label: "View Project"
     btn_class: "btn--inverse"
     
-- image_path: /assets/images/calories.jpg # Remplacez par le chemin de votre image
+  - image_path: /assets/images/calories.jpg # Remplacez par le chemin de votre image
     alt: "Calorie Calculator"
     title: "Building a Calorie Intake Calculator"
     excerpt: "Use a json dataset already loaded as a dictionnary to create functions to calculate and display total nutritional values"
