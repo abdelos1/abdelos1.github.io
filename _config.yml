@@ -16,7 +16,7 @@
 title: Abdel Nasser portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- Undergraduate student in physics at Institut de Mathématiques et de Sciences Physique ...
+ Undergraduate student in physics at Institut de Mathématiques et de Sciences Physiques ...
 github_username: username
 minimal_mistakes_skin: air
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Abdel Nasser Orou S"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Undergraduate student in physics at Institut de Mathématiques et de Sciences Physique "
+  bio    : "Undergraduate student in physics at Institut de Mathématiques et de Sciences Physiques"
   interests:
     - "Artificial Intelligence"
     - "Computational Linguistics"
