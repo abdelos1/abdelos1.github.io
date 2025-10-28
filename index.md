@@ -5,4 +5,4 @@
 layout: single
 author_profile: true
 ---
-Final year **undergraduate physics student** at Institut de Mathématiques et de Sciences Physique, Benin. Passionate about **electronics and its applications in aerospace engineering and research on quantum technologies**. Eager to pursue my studies in an Engineering Program that combines advanced physics concepts with hands-on research and innovation.
+Final year **undergraduate physics student** at Institut de Mathématiques et de Sciences Physiques, Benin. Passionate about **electronics and its applications in aerospace engineering and research on quantum technologies**. Eager to pursue my studies in an Engineering Program that combines advanced physics concepts with hands-on research and innovation.
