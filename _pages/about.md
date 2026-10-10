@@ -25,7 +25,7 @@ feature_row_school:
     alt: "Engineering Sciences Project"
     title: "Engineering Sciences Project"
     excerpt: "Group project using System Modeling Language (SysML) to model an Apple device (AirPods 3)"
-    url: "https://docs.google.com/presentation/d/17ey6RqAW35KaYM3eXGOdeOIxk1VLTqTn/edit?usp=sharing&ouid=101718479781209765117&rtpof=true&sd=true"
+    url: "https://drive.google.com/file/d/1OxTCnFLQ5jXGODhNmrYJ_My9YOI5Tclp/view?usp=sharing"
     btn_label: "View Project"
     btn_class: "btn--inverse"
     
