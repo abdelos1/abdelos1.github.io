@@ -68,7 +68,7 @@ author:
    #  url: "https://"
     - label: "CV-Latest version (10/10/2026)"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/CV_final.pdf"
+      url: "/assets/CV_final.docx.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abdelos1?tab=repositories"
@@ -80,7 +80,7 @@ footer:
   links:
     - label: "CV-Latest version (10/10/2026)"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/CV_final.pdf"
+      url: "/assets/CV_final.docx.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
