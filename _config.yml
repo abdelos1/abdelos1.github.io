@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Abdel Nasser Orou S"
   avatar : "/assets/images/profile2.jpg"
-  bio    : "Undergraduate student in physics at Institut de Mathématiques et de Sciences Physiques"
+  bio    : "Undergraduate student in physics at the Institute of Mathematics and Physical Sciences"
   interests:
     - "Artificial Intelligence"
     - "Computational Linguistics"
@@ -68,7 +68,7 @@ author:
    #  url: "https://"
     - label: "CV-Latest Version (10/10/2026)"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/CV_final.docx.pdf"
+      url: "/assets/CV_final.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abdelos1?tab=repositories"
@@ -80,7 +80,7 @@ footer:
   links:
     - label: "CV-Latest Version (10/10/2026)"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/CV_final.docx.pdf"
+      url: "/assets/CV_final.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
