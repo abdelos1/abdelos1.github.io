@@ -5,4 +5,6 @@
 layout: single
 author_profile: true
 ---
-Final year **undergraduate physics student** at Institut de Mathématiques et de Sciences Physiques, Benin. Passionate about **electronics and its applications in aerospace engineering and research on quantum technologies**. Eager to pursue my studies in an Engineering Program that combines advanced physics concepts with hands-on research and innovation.
+Holder of a Bachelor of Science in Physics from the Institute of Mathematics and Physical Sciences (IMSP), University of Abomey-Calavi, Benin, with a strong foundation in theoretical physics. My interests span microelectronics, quantum technologies, computational physics, and physics of data. I am particularly fascinated by how these fields intersect to advance our understanding of physical systems and enable new technologies.
+
+I aspire to deepen my scientific and technical expertise through advanced studies that bridge fundamental physics, computational methods, and hands-on experimentation. I am especially interested in translating scientific knowledge into technological innovation and applied research, exploring applications in fields such as aerospace and biomedical engineering, and ultimately contributing to technological progress and human well-being.
