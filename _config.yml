@@ -16,7 +16,7 @@
 title: Abdel Nasser portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-BSc in Physics- Institute of Mathematics and Physical Sciences (IMSP)
+BSc in Physics- Institute of Mathematics and Physical Sciences (IMSP) ...
 github_username: username
 minimal_mistakes_skin: air
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Abdel Nasser Orou S"
   avatar : "/assets/images/profile.jpg"
-  bio    : "BSc in Physics- Institute of Mathematics and Physical Sciences (IMSP)"
+  bio    : "BSc in Physics-Institute of Mathematics and Physical Sciences (IMSP)"
   interests:
     - "Artificial Intelligence"
     - "Computational Linguistics"
