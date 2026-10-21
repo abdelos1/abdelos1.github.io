@@ -66,13 +66,15 @@ feature_row:
 
 ---
 
-#  DataCamp Projects
-{% include feature_row %}
+
+# School Projects
+{% include feature_row id="feature_row_school" %}
 
 ---
 
-#  School Projects
-{% include feature_row id="feature_row_school" %}
+# DataCamp Projects
+{% include feature_row %}
+
 
 
 
