@@ -5,6 +5,5 @@
 layout: single
 author_profile: true
 ---
-Holder of a Bachelor of Science in Physics from the Institute of Mathematics and Physical Sciences (IMSP), University of Abomey-Calavi, Benin, with a strong foundation in theoretical physics. My interests span microelectronics, quantum technologies, computational physics, and physics of data. I am particularly fascinated by how these fields intersect to advance our understanding of physical systems and enable new technologies.
-
-I aspire to deepen my scientific and technical expertise through advanced studies that bridge fundamental physics, computational methods, and hands-on experimentation. I am especially interested in translating scientific knowledge into technological innovation and applied research, exploring applications in fields such as aerospace and biomedical engineering, and ultimately contributing to technological progress and human well-being.
+Holder of a Bachelor of Science in Physics, with strong interests in microelectronics, quantum technologies, and computational physics. I am particularly fascinated by how these fields intersect to deepen our understanding of physical systems and enable new technologies.
+I am especially interested in translating scientific knowledge into technological innovation and applied research, exploring applications that contribute to technological progress and human well-being.
